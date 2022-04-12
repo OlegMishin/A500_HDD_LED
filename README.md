@@ -5,7 +5,7 @@ Known limitation: As the pcb designed to be driven by an Open Drain output of ID
 
 # Schematics
 
-![image](https://user-images.githubusercontent.com/81614352/162932955-beaddced-67d3-42e7-acb7-e51bd5b81e02.png)
+![image](https://user-images.githubusercontent.com/81614352/162941728-2a46158f-b3f5-40f1-a3ca-9d6e87801828.png)
 
 
 
